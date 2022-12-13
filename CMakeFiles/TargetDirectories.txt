@@ -1,0 +1,7 @@
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/main.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/edit_cache.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/rebuild_cache.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/list_install_components.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/install.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/install/local.dir
+/home/one_eyed_john/Desktop/prog/c_projects/MISiS/Autumn2022/g0lubew_i_m/CMakeFiles/install/strip.dir
